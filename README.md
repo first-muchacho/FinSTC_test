@@ -15,3 +15,6 @@ To deploy a project:
 1. download this repository for yoursel  
 2. create and deploy a virtual environment  
 3. then run the main
+
+How it works:  
+To complete the task, a python script has been written that is based on the "etree" module. The script takes the initial file (test.xml), which contains the input data. After that, an xslt file (change.xslt) opens with which the initial file will be converted. The result of the conversion is written to the output file (result.xml).
