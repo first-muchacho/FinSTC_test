@@ -10,3 +10,8 @@ B. Результат трансформации должен содержать
  - значение ноды spValue начинается на BT.
 
 ### Result
+
+To deploy a project:  
+1. download this repository for yoursel  
+2. create and deploy a virtual environment  
+3. then run the main
