@@ -26,7 +26,7 @@ Please explain what is XSD, show examples of financial XSD.
 ### Result
 
 XSD is a language for description the structure of XML document. It is also called XML Schema.
-W3C (World Wide Web Consortium) recommendation this specifies how to formally describe the elements in XML document.
+W3C (World Wide Web Consortium) recommendate this specifies how to formally describe the elements in XML document.
 When using XML Schema, the XML parser can check noy only correctness of the syntax of an XML doc, but also its structure,
 content model and data types.
 This approach allows OOL to easily create objects in memory, which is much more easier than parsing XML as a regular text doc.
