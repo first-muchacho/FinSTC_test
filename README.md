@@ -45,7 +45,7 @@ ETL is an abbreviation of Extract, Transform, Load. This is a system that is use
 The problem that made it necessary to use ETL solutions is the business needs to obtain reliable reporting from the mess that is going on in the data of any ERP system.
 There are two kinds of this mess:
 1. As random errors that occurred at the level of input, data transfer, or due to bugs;
-2. As differences in directories and data details between adjacent IT systems.
-Ideally, ETL should solve the following two tasks:
+2. As differences in directories and data details between adjacent IT systems.  
+Ideally, ETL should solve the following two tasks:  
 1. To bring all data to a single system of values and details, simultaneously ensuring their quality and reliability;
 2. To provide an audit trail during the transformation of data, so that after the transformation it was possible to understand from which source data and amounts each line of the transformed data was collected.
