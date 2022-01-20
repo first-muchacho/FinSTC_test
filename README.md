@@ -17,7 +17,7 @@ To deploy a project:
 3. run the main
 
 How it works:  
-To complete the task, a python script has been written that is based on the "etree" module. The script takes the initial file (test.xml), which contains the input data. After that, we'd open an xslt file (change.xslt) with which the initial file will be converted. The result of the conversion is written to the output file (result.xml).
+To complete the task, a python script has written that is based on the "etree" module. The script takes the initial file (test.xml), which contains the input data. After that, we'd open an xslt file (change.xslt) with which the initial file will be converted. The result of the conversion has written to the output file (result.xml).
 
 ## Second task
 
