@@ -50,3 +50,9 @@ There are two kinds of this mess:
 Ideally, ETL should solve the following two tasks:  
 1\. To bring all data to a single system of values and details, simultaneously ensuring their quality and reliability;  
 2\. To provide an audit trail during the transformation of data, so that after the transformation it was possible to understand from which source data and amounts each line of the transformed data was collected.
+
+## Fourth task
+
+Please write a working step-by-step plan/report of most interesting project of your career.
+
+### Result
