@@ -42,7 +42,7 @@ Please find information about ETL and explain in your words where and how you wo
 ### Result
 
 ETL is an abbreviation of Extract, Transform, Load. This is a system that is used to lead to the same directories and upload data from several different accounting systems to DWH and EPM.
-The problem that made it necessary to use ETL solutions is the business needs to obtain reliable reporting from the mess that is going on in the data of any ERP system.
+The problem that made it necessary to use ETL solutions is the business needs to obtain reliable reporting from the mess that is going on in the data of any ERP system.  
 There are two kinds of this mess:  
 1\. As random errors that occurred at the level of input, data transfer, or due to bugs;  
 2\. As differences in directories and data details between adjacent IT systems.  
