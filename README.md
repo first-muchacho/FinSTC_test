@@ -12,7 +12,7 @@ B. Результат трансформации должен содержать
 ### Result
 
 To deploy a project:  
-1. download this repository for yoursel  
+1. download this repository for yourself  
 2. create and deploy a virtual environment  
 3. run the main
 
